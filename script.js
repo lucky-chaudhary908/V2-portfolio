@@ -2,8 +2,8 @@
 // EASY EDITS
 // ===============================
 const SOCIAL_LINKS = {
-  linkedin: "#", // paste your LinkedIn URL here
-  github: "#"    // paste your GitHub URL here
+  linkedin: "https://www.linkedin.com/in/lucky-chaudhary-001b62312/", // paste your LinkedIn URL here
+  github: "https://github.com/lucky-chaudhary908"    // paste your GitHub URL here
 };
 
 document.getElementById("linkedinLink").href = SOCIAL_LINKS.linkedin;
